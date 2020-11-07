@@ -1,0 +1,27 @@
+{
+	"components": {
+	    "x-550094-incident-list": {
+	        "innerComponents": [
+				"now-card",
+				"now-card-footer",
+				"now-card-header",
+				"now-button",
+				"now-heading",
+				"now-loader",
+				"now-label-value",
+				"now-label-value-inline",
+				"now-label-value-stacked",
+				"now-template-card",
+				"now-template-card-attachment",
+				"now-template-card-omnichannel"],
+			"uiBuilder": {
+				"associatedTypes": ["global.core", "global.landing-page"],
+				"label": "INCINDET",
+				"icon": "document-outline",
+				"description": "A description of my component",
+				"category": "primitives"
+			}
+	    }
+	},
+	"scopeName": "x_550094_test_in_0"
+}

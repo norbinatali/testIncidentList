@@ -1,0 +1,13 @@
+@import '@servicenow/sass-kit/host';
+
+.card-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+.card-content {
+  flex: 0 0 50%;
+  padding: 10px;
+}
+.title{
+  text-align: center;
+}
